@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../ConsoleMenu/ConsoleMenu/ConsoleMenu.csproj" />
+  <Project Path="LibraryManager/LibraryManager.csproj" Id="4f5ccc61-308f-4ab8-bee2-abaf8c18e081" />
   <Project Path="TaskManager/TaskManager.csproj" />
 </Solution>
