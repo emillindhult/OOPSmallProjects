@@ -9,7 +9,8 @@ public class Task
 
 public enum Status
 {
-    Todo,
-    InProgress,
-    Done
+    New = 1,
+    Active = 2,
+    Completed = 3,
+    Cancelled = 4
 }

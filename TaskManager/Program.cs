@@ -1,6 +1,6 @@
 ﻿using TaskManager;
 
-TaskManager.TaskManager taskManager = new();
-var menu = new Menu(taskManager);
+var taskService = new TaskService();
+var menu = new Menu(taskService);
 
 menu.MainMenu();
